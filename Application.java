@@ -1,6 +1,11 @@
 /**
- * Bank Account Application Tester
- * @author Hellen Pacheco
+ * Lab Title: BankAccount
+ * Course: CIS 254
+ * Description: Bank Account Application with try/catch test cases.
+ *
+ * @author Wonmin Song (BankAccount.java)
+ * @author Joel Odessky (Application.java)
+ * @since 10/30/2025
  */
 public class Application {
 
